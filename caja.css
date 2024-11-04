@@ -1,0 +1,14 @@
+.caja{
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    border: 8px;
+    border-style: dotted;
+    border-color: green;
+    margin: 50px;
+    padding: 40px;
+    font-size: 22px;
+    font-family: sans-serif;
+    color: brown;
+    text-transform: uppercase;   
+}
